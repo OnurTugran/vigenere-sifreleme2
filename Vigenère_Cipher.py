@@ -44,3 +44,5 @@ print(f"Şifreli Metin =\n{sifreli}")
 
 cozulmus = vigerne_coz(sifreli,anahtar)
 print(f"Şifreli Metinin Çözülmüş Hali=\n{cozulmus}")
+
+
